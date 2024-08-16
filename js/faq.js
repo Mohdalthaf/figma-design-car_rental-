@@ -1,4 +1,3 @@
-
 // Get all question-answer containers
 const questions = document.querySelectorAll('.question-answer-parent');
 
